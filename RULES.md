@@ -1,6 +1,6 @@
 # Echo League Rules
 
-**v0.0.1 (Updated 12/29/2016)** 
+**v0.0.2 (Updated 01/02/2017)** 
 
 -----
 
