@@ -92,7 +92,7 @@
             1. If you are adding a fourth (4th) or fifth (5th) player to your roster, you can add any player who is either less than or equal to the current MMR of the player(s) lost OR any player that does not move you into a higher skill division.
             2. If you are adding a sixth (6th) or seventh (7th) player to your roster, you can add any player who does not move you into a higher skill division.
         6. Each team is allowed two automatic “adds” if the added players meet all the above criteria
-            1. Any addition to a team past after the 2nd player will only be allowed at admin team discretion
+            1. Any addition to a team past after the 2nd player will only be allowed at admin team discretion *(N.B. Your current skill bracket is calculated by the MMR of your 5 highest skilled players)*
 4. If a team feels like their Team Organizer is unfit in his duties, they can choose to nominate a new player and either remove or demote the current Team Organizer by a unanimous decision.
 
 -----
@@ -129,25 +129,29 @@
     3. Final stage games will be a best of three.
     4. The grand final will be a best of five.
 3. We will try to have a ticket approved for games to be played, but if there are delays (as there have been in the past), we will have lobbies off-ticket if admins are unavailable
-
+    1. For games played off-ticket, the winning team must provide the following screenshots to have their game counted as official:
+        1. Screenshot of the final “picks and bans” screen (from replay)
+        2. Screenshot of end-game overview with matchID and timestamp
+        3. Screenshot of the end-game scoreboard
+    2. Failure to provide screenshots within a timely manner, to admins, will result in a series being ruled as a forfeit
 -----
 
 ## VII. Scheduling
 
 1. Every week in *Echo League Season 1* begins on Monday at 12:00 AM PST and ends on Sunday at 11:59 PM PST
 2. All games for the upcoming week must be scheduled by the end of the previous week, and must be scheduled within the timeframe of the upcoming week
-    1. If there are extenuating circumstances preventing teams from playing during their assigned week, they can reach out to the Staff to try and arrange an off-schedule game.  These will only be allowed when there are no other options, when it will not impact future games, and when the staff has been given ample notice.
+    1. If there are extenuating circumstances preventing teams from playing during their assigned week, they can reach out to the Staff to try and arrange an off-schedule game.  These will only be allowed when there are no other options, when it will not impact future games, and when the staff has been given enough notice to arrange an alternative solution.
 3. Games must be scheduled on the Echo League website to be officially counted as “scheduled by deadline”.
 4. Failure of both teams to schedule by the deadline will result in a null-series (no points awarded to either team) in the official scoring.
     1. In the playoffs, this will result in the next team receiving a bye week
 5. If you have attempted to schedule your game but the other team is not responding or there is a lack of response, then you must do the following and the administration team will make an assessment:
     1. Show messages of attempting to contact or scheduling the other team’s organizer.
-    2. If the above is unable to be proved then you must show proof of attempting to add them on steam or attempt to contact him in other ways. (If necessary, attempt to contact a team member of that team).
+    2. If the above is unable to be proved then you must show proof of attempting to add them on steam or attempt to contact them in other ways. (If necessary, attempt to contact a team member of that team).
 6. If the game has been scheduled and the time is finalized. Both teams must agree to change it going forwards
     1. If both teams wish to reschedule, it must be done AT MINIMUM six hours in advance with both teams agreeing to the reschedule.
         1. Game must also be updated on the Echo League website using the “Delete and Reschedule” option by the individual who scheduled the first match
-    2. If the game is rescheduled, Team Organizers must reach out to any casters that are scheduled to their game to inform them.  
-        2. Failure to do this may lead to being blacklisted by the casting team
+    2. If the game is rescheduled, Team Organizers must reach out to any casters that are scheduled to their game to inform them.
+        1. Failure to do this may lead to being blacklisted by the casting team
 
 -----
 
@@ -161,7 +165,7 @@
     1. Players are exempt from this rule if they must fix an in-game bug or glitch which is requiring a pause.
 4. Remakes will be done as All Pick games with the same hero selections. If you have not completed the draft, the game will be restarted and the picks/bans will be copied exactly to the same point.
 5. Only official lobbies from the tournament’s ticket will be accepted for official results.
-    1. If tickets, lobby-bots, or admins are unavailable at time of game start, players can create an unticketed lobby and take screenshot records of the end-game screens instead
+    1. If tickets, lobby-bots, or admins are unavailable at time of game start, players can create an unticketed lobby and provide proof as listed in IV.3
 6. Teams who are late for their scheduled games are liable to the following punishment:
     1. Ten (10) minutes - Loss of all reserve draft time
     2. Fifteen (15) minutes - Team must forfeit the first game of the series.
@@ -176,7 +180,7 @@
     1. Explaining or discussing why a pause or issue has occurred.
     2. Wishing the other team, “Good luck, have fun” or of similar nature.
     3. Calling/saying “gg” (“Good Game”, “ggwp”, “gege”, or any other accepted variant) at the end or to end the game. Once “gg” is called, the game is instantly forfeited by the team who calls it, no exceptions will be made.
-
+9. First all-chat offense for a team will result in an official warning from an admin, and every further offense will result in forfeit of game
 -----
 
 ## IX. Community Conduct
@@ -208,8 +212,3 @@
     1. Hearsay will be dismissed
 3. For any uncovered cases or edge-cases, admins will make a ruling on a case-by-case basis, inform all involved, and amend the rules to reflect the decision
 4. Any appeals to bans/suspensions/penalties can be directed to a staff member for further review
-
-----
-
-## XI. Tournament Format
-TBA
