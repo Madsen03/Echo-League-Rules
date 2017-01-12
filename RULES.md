@@ -182,6 +182,7 @@
     2. Wishing the other team, “Good luck, have fun” or of similar nature.
     3. Calling/saying “gg” (“Good Game”, “ggwp”, “gege”, or any other accepted variant) at the end or to end the game. Once “gg” is called, the game is instantly forfeited by the team who calls it, no exceptions will be made.
 9. First all-chat offense for a team will result in an official warning from an admin, and every further offense will result in forfeit of game
+
 -----
 
 ## IX. Community Conduct
