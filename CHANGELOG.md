@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.3 - 1/12/2017
+
+Formatting fixes
+
 ## v0.0.2 - 1/1/2017
 
 Added revisions from second rules meeting

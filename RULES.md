@@ -1,6 +1,6 @@
 # Echo League Rules
 
-**v0.0.2 (Updated 01/02/2017)** 
+**v0.0.3 (Updated 01/12/2017)** 
 
 -----
 
@@ -18,7 +18,7 @@
 3. Registration deadline is the 19th of February 2017, 11:59 PM PST. After the deadline, no new players will be accepted into the league for the first season of Echo League.
 4. You may only register one account to play in this tournament.
     1. Registration of multiple accounts owned by the same person will result in all accounts being banned.
-    2. Account registered must be the highest skilled account belonging an individual.  Registering with “smurf” accounts is forbidden and will result in a punishment in accordance with [I.2](https://gitlab.com/echoleaguegg/edl-rules/blob/master/RULES.md#i-registration-rules)
+    2. Account registered must be the highest skilled account belonging an individual.  Registering with “smurf” accounts is forbidden and will result in a punishment in accordance with [I.2]https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#i-registration-rules)
 5. You may only register with an account that belongs to you exclusively. No account sharing is allowed.
     1. If you own multiple accounts you must use the one with the highest MMR values
         1. If it is the case that between two accounts, one has a higher Party MMR, and one has a higher Solo MMR, the individual must register with the account that has the highest MMR value (Party OR Solo), once 250 is subtracted from the Party MMR Value
@@ -29,7 +29,7 @@
 6. You can only be registered to one team at a time regardless of division or region. 
     1. The player is ineligible to join another team until he/she is removed from their current team. This process must be approved by an administrator.
 7. If there are any problems or discrepancies with the information generated at registration, it is the player’s responsibility to inform the admin team of such issues.  
-    1. If it is not reported then the reported player may be punished under rule [I.2](https://gitlab.com/echoleaguegg/edl-rules/blob/master/RULES.md#i-registration-rules).
+    1. If it is not reported then the reported player may be punished under rule [I.2]https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#i-registration-rules).
 
 -----
 
@@ -78,7 +78,7 @@
         1. Match Timeframes will be one week unless given special exception by the admins
     2. Receive information from League Admins and disseminate to their teammates.
     3. Make sure their team is informed of rules, so they can behave accordingly in-lobby and in-game.
-    4. Be available and easy to find in Discord in accordance with rule [II.3.2](https://gitlab.com/echoleaguegg/edl-rules/blob/master/RULES.md#ii-player-rules).
+    4. Be available and easy to find in Discord in accordance with rule [II.3.2]https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules).
 2. Team Organizers do not need to be active players, and can be purely managerial
     1. Team Organizers will always count towards their roster’s player cap, regardless if they play or not
 3. Team Organizers can adjust their team roster during the season in the following ways:
@@ -86,7 +86,7 @@
     2. Add players to roster
         1. Added player must already be a “free-agent”
         2. Added players cannot increase the roster size past seven (7) players.
-        3. If a potential new player has recently left  a team, they must have waited at least one (1) week before joining a new team in accordance with rule [II.4.1](https://gitlab.com/echoleaguegg/edl-rules/blob/master/RULES.md#ii-player-rules)
+        3. If a potential new player has recently left  a team, they must have waited at least one (1) week before joining a new team in accordance with rule [II.4.1]https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
         4. Players cannot be added to a team after March 25th, 11:59 PM PST
         5. Added players must meet the following criteria in regards to their Skill Level:
             1. If you are adding a fourth (4th) or fifth (5th) player to your roster, you can add any player who is either less than or equal to the current MMR of the player(s) lost OR any player that does not move you into a higher skill division.
@@ -110,7 +110,7 @@
     4. The matches the stand-in is required for
 3. If  an admin approves a stand-in, they will write and update on the match page for which the stand-in will be used
     1. In cases of extremely short notice, admins may also contact the opposing team to let them know directly
-4. An approved stand-in acts as a Team Member for the series they’re approved for, as listed in rule [III.5](https://gitlab.com/echoleaguegg/edl-rules/blob/master/RULES.md#iii-team-rules)
+4. An approved stand-in acts as a Team Member for the series they’re approved for, as listed in rule [III.5]https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#iii-team-rules)
     1. Approved stand-ins are not guaranteed a chance to play on the team they’re standing-in for.
 5. Stand-ins who are not registered for the tournament are completely forbidden, and are unapproved to play.
 6. Using an unapproved stand-in will result in a forfeit for the games they played in and potential further punishment, regardless of the game’s outcome.
@@ -134,6 +134,7 @@
         2. Screenshot of end-game overview with matchID and timestamp
         3. Screenshot of the end-game scoreboard
     2. Failure to provide screenshots within a timely manner, to admins, will result in a series being ruled as a forfeit
+
 -----
 
 ## VII. Scheduling
@@ -158,7 +159,7 @@
 ## VIII. Lobbies & In-Game Rules
 
 1. All teams must use their official registered team name in the lobby, and only use players listed on their roster or approved stand-ins.
-    1. Failure to use team name or pro name (see rule [II.3.2](https://gitlab.com/echoleaguegg/edl-rules/blob/master/RULES.md#ii-player-rules)) can result in forfeit of match.
+    1. Failure to use team name or pro name (see rule [II.3.2]https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)) can result in forfeit of match.
 2. No coaches or non-caster observers are allowed in the lobby.
     1. Only exception is if an admin is hosting a ticketed lobby for you.
 3. Each team is allowed a maximum of ten minutes of pause time.
