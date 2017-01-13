@@ -1,6 +1,6 @@
 # Echo League Rules
 
-**v0.0.3 (Updated 01/12/2017)** 
+**v0.0.4 (Updated 01/12/2017)** 
 
 -----
 
@@ -14,7 +14,9 @@
         1. Dota Client.
         2. Dotabuff/OpenDota.
 2. Falsifying any registration data to bypass the tournament filters in order to be able to participate in the tournament will result in an immediate ban from the tournament.
-        1. If proof of falsified information is found during the tournament, results of every game that player has participated in are liable to be forfeit, at decision of the admin team.
+    1. If proof of falsified information is found during the tournament, results of every game that player has participated in are liable to forfeit, retroactively
+    2. Any team with a fraudulent player will be disqualified from the tournament and potentially barred from future seasons of Echo League
+        1. This rule __may__ be bypassed for teams which self-report players with fraudulent accounts on their teams
 3. Registration deadline is the 19th of February 2017, 11:59 PM PST. After the deadline, no new players will be accepted into the league for the first season of Echo League.
 4. You may only register one account to play in this tournament.
     1. Registration of multiple accounts owned by the same person will result in all accounts being banned.
@@ -47,7 +49,8 @@
     2. All “Team Organizers” must be registered on the community Discord server, using their official “pro name” so other players can easily identify and contact them
         1. Failure to do so will leave you responsible should any late scheduling issues arise due to other captains/admins being unable to locate you
 4. Players can leave their active team at any time they are not in a match.
-    1. After leaving a team intentionally or through team disband, a player must wait one (1) week before joining a new team and playing as an active member of that roster
+    1. After leaving a team intentionally or through team disband, a player must wait one (1) game week before joining a new team or standing-in and playing as an active member of that roster
+        * **(e.g. If you play in a week 2 game, then leave your team, you will not be eligible to play again until week 4)**
 5. Administrators are forbidden from participating in the tournament as coaches, managers, players, or stand-ins
     1. Admins __are__ allowed to participate as casters, statspeople, observers, or in any other production roles
 
@@ -86,7 +89,7 @@
     2. Add players to roster
         1. Added player must already be a “free-agent”
         2. Added players cannot increase the roster size past seven (7) players.
-        3. If a potential new player has recently left  a team, they must have waited at least one (1) week before joining a new team in accordance with rule [II.4.1](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
+        3. If a potential new player has recently left  a team, they must have waited at least one (1) game week before joining a new team in accordance with rule [II.4.1](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
         4. Players cannot be added to a team after March 25th, 11:59 PM PST
         5. Added players must meet the following criteria in regards to their Skill Level:
             1. If you are adding a fourth (4th) or fifth (5th) player to your roster, you can add any player who is either less than or equal to the current MMR of the player(s) lost OR any player that does not move you into a higher skill division.

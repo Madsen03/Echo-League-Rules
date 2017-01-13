@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.4 - 1/12/2017
+
+Updates regarding Fradulant Accounts & Team Change Cooldowns
+
 ## v0.0.3 - 1/12/2017
 
 Formatting fixes
