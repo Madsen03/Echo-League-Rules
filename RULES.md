@@ -1,6 +1,6 @@
 # Echo League Rules
 
-**v0.0.4 (Updated 01/12/2017)** 
+**v0.1.0 (Updated 01/14/2017)** 
 
 -----
 
@@ -137,6 +137,7 @@
         2. Screenshot of end-game overview with matchID and timestamp
         3. Screenshot of the end-game scoreboard
     2. Failure to provide screenshots within a timely manner, to admins, will result in a series being ruled as a forfeit
+4. If there are ties at end of groups, tie will be settled in accordance with our [TIEBREAKER RULES](https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS.md)
 
 -----
 
