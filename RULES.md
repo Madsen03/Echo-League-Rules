@@ -1,6 +1,6 @@
 # Echo League Rules
 
-**v0.1.0 (Updated 01/14/2017)** 
+**v0.1.1 (Updated 01/17/2017)** 
 
 -----
 
@@ -198,6 +198,7 @@
         1. This includes links to Social Media Pages
     4. No spam.
     5. No personal attacks on users/teams/admins.
+    6. No posting content which may be considered offensive, pornographic, or otherwise unsuitable (no NSFW stuff).  This includes both links to **and** image/video uploads
 2. Breaking community guidelines will result in the following punishments, based on severity:
     1. Restricted chat permissions
     2. 24h-48h ban from non-essential channels.
