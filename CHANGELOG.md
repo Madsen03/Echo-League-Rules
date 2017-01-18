@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.0 - 1/17/2017
+
+Add community conduct rules about NSFW content
+
 ## v0.1.0 - 1/14/2017
 
 Add first revision of [TIEBREAKER RULES](https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS.md)
