@@ -1,6 +1,10 @@
 # Changelog
 
-## v0.1.0 - 1/17/2017
+## v0.2.0 - 1/24/2017
+
+Add ToC.  Update tournament format rules.
+
+## v0.1.1 - 1/17/2017
 
 Add community conduct rules about NSFW content
 

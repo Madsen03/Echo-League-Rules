@@ -1,6 +1,20 @@
 # Echo League Rules
 
-**v0.1.1 (Updated 01/17/2017)** 
+**v0.2.0 (Updated 01/24/2017)** 
+
+### Table of Contents:
+
+* [I. Registration Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#i-registration-rules)
+* [II. Player Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
+* [III. Team Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#iii-team-rules)
+* [IV. Team Organizers](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#iv-team-organizers)
+* [V. Stand-ins](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#v-stand-ins)
+* [VI. Tournament Format](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#vi-tournament-format)
+* [VII. Scheduling](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#vii-scheduling)
+* [VIII. Lobbies and In-Game Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#viii-lobbies--in-game-rules)
+* [IX. Community Conduct](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ix-community-conduct)
+* [X. Disputes](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#x-disputes)
+
 
 -----
 
@@ -126,18 +140,30 @@
 ## VI. Tournament Format
 
 1. All games will be played in **Captain’s Mode**.
-2. The following match types and their series lengths are as follows:
-    1. Play-in games and group tiebreakers will be a best of one.
-    2. Group stage games will be a best of two.
-    3. Final stage games will be a best of three.
-    4. The grand final will be a best of five.
-3. We will try to have a ticket approved for games to be played, but if there are delays (as there have been in the past), we will have lobbies off-ticket if admins are unavailable
+2. Tournament will consist of three phases:
+    1. A 5-Week Group stage
+        1. 6-Team groups will play a Round-Robin over the course of 5 weeks
+        2. Depending on Division size, either the top two, or top one team will advance to playoffs (this will be determined at the end of registration for each division)
+    2. One week break after group stages
+        1. This will be used for any tiebreaker playoffs, and for organizing for playoffs 
+    3. Single Elimination playoffs
+3. Each region will have 3 Divisions: An A-Tier, B-Tier, and C-Tier Division
+    1. If some regions are underpopulated, we may reduce the number of tiers to help better fill divisions
+4. Each division will be limited to the number of teams allowed
+    1. There must be enough teams to fill enough groups to allow for  4, 8, or 16 playoff teams
+    2. Some groups may be padded with "BYE WEEK" teams if there are not enough registrations
+    3. If we have too many registrations for one division, and cannot resolve it using a reasonable amount of "BYE WEEK" teams, we will remove teams by registration date
+5. The following match types and their series lengths are as follows:
+    1. Group stage games will be a best of two.
+    2. Plaoff stage games will be a best of three.
+    3. The grand final will be a best of five.
+6. We will try to have a ticket approved for games to be played, but if there are delays (as there have been in the past), we will have lobbies off-ticket if admins are unavailable
     1. For games played off-ticket, the winning team must provide the following screenshots to have their game counted as official:
         1. Screenshot of the final “picks and bans” screen (from replay)
         2. Screenshot of end-game overview with matchID and timestamp
         3. Screenshot of the end-game scoreboard
     2. Failure to provide screenshots within a timely manner, to admins, will result in a series being ruled as a forfeit
-4. If there are ties at end of groups, tie will be settled in accordance with our [TIEBREAKER RULES](https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS.md)
+7. If there are ties at end of groups, tie will be settled in accordance with our [TIEBREAKER RULES](https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS.md)
 
 -----
 
@@ -198,7 +224,7 @@
         1. This includes links to Social Media Pages
     4. No spam.
     5. No personal attacks on users/teams/admins.
-    6. No posting content which may be considered offensive, pornographic, or otherwise unsuitable (no NSFW stuff).  This includes both links to **and** image/video uploads
+    6. No posting content which may be considered offensive, pornographic, or otherwise unsuitable (no NSFW stuff).  This includes discussion of, links to, and image/video uploads
 2. Breaking community guidelines will result in the following punishments, based on severity:
     1. Restricted chat permissions
     2. 24h-48h ban from non-essential channels.
