@@ -1,6 +1,6 @@
 # Echo League Rules
 
-**v0.2.0 (Updated 01/24/2017)** 
+**v1.0.0 (Updated 01/31/2017)** 
 
 ### Table of Contents:
 
@@ -36,15 +36,16 @@
     1. Registration of multiple accounts owned by the same person will result in all accounts being banned.
     2. Account registered must be the highest skilled account belonging an individual.  Registering with “smurf” accounts is forbidden and will result in a punishment in accordance with [I.2](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#i-registration-rules)
 5. You may only register with an account that belongs to you exclusively. No account sharing is allowed.
-    1. If you own multiple accounts you must use the one with the highest MMR values
-        1. If it is the case that between two accounts, one has a higher Party MMR, and one has a higher Solo MMR, the individual must register with the account that has the highest MMR value (Party OR Solo), once 250 is subtracted from the Party MMR Value
+6. If you own multiple accounts you must use the one with the highest MMR values
+    1. If it is the case that between two accounts, one has a higher Party MMR, and one has a higher Solo MMR, the individual must register with the account that has the highest MMR value (Party OR Solo), once 250 is subtracted from the Party MMR Value
 
-            *(e.g. If one account is Solo: 4000, Party: 3800, and the other is Solo: 3900, Party: 4500, then you should register with the second account, as (4500-250)MMR > 4000MMR)*
 
-        2. Registration processes will flag accounts with unusual match history to be personally reviewed by the administration team.
-6. You can only be registered to one team at a time regardless of division or region. 
+        *(e.g. If one account is Solo: 4000, Party: 3800, and the other is Solo: 3900, Party: 4500, then you should register with the second account, as (4500-250)MMR > 4000MMR)*
+
+    2. Registration processes will flag accounts with unusual match history to be personally reviewed by the administration team.
+7. You can only be registered to one team at a time regardless of division or region. 
     1. The player is ineligible to join another team until he/she is removed from their current team. This process must be approved by an administrator.
-7. If there are any problems or discrepancies with the information generated at registration, it is the player’s responsibility to inform the admin team of such issues.  
+8. If there are any problems or discrepancies with the information generated at registration, it is the player’s responsibility to inform the admin team of such issues.  
     1. If it is not reported then the reported player may be punished under rule [I.2](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#i-registration-rules).
 
 -----
@@ -76,7 +77,8 @@
     1. If a player cannot find/form a team by the registration deadline above, they will be placed into the free-agents pool
 2. Teams can only have a maximum of seven members on the roster at any one time. However, a team must have at least five active members on the roster at all times
     1. You have until end of each week (Sunday @ 11:59 PM PST) to fulfil the minimum roster requirements
-3. Teams are expected to play all series assigned to them in EchoLeague Season 1.  If a Team Misses two series, they will be disbanded and all players will be moved to “free-agent” status
+        1. In cases where a team member leaves within two days of the end-of-week, there were will be a grace period of two extra days to find a replacement player.
+3. Teams are expected to play all series assigned to them in EchoLeague Season 1.  If a Team misses two series, they will be disbanded and all players will be moved to “free-agent” status
 4. A roster must consist of the following:
     1. One (1) ‘Team Organizer’: An official contact for your team on both Steam and Discord.  Team organizers are responsible for communicating with administration and scheduling matches on behalf of their team.
     2. Four (4) – Six (6) ‘Team Members’: Any official league-registered player that is registered to your roster.  Team Members can also be in-game captains, drafters, etc. Team members are NOT responsible for scheduling games, but can be promoted to a ‘Team Organizer’ role if their current ‘Team Organizer’ steps down, or is unavailable.
@@ -84,7 +86,6 @@
     1. Players can change between games in a series as long as they are all valid roster members, or an approved stand-in.
     2. Team Organizers are not required to play, as long as a team can field 5 other active members from their roster
 6. Teams Organizers can change their roster in accordance with the rules listed in IV.3
-7. All roster changes must adhere to the roster-change rules as described in section V (ROSTER SECTION)
 
 -----
 
@@ -104,7 +105,7 @@
         1. Added player must already be a “free-agent”
         2. Added players cannot increase the roster size past seven (7) players.
         3. If a potential new player has recently left  a team, they must have waited at least one (1) game week before joining a new team in accordance with rule [II.4.1](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
-        4. Players cannot be added to a team after March 25th, 11:59 PM PST
+        4. Players cannot be added to a team after April 2nd, 11:59 PM PST
         5. Added players must meet the following criteria in regards to their Skill Level:
             1. If you are adding a fourth (4th) or fifth (5th) player to your roster, you can add any player who is either less than or equal to the current MMR of the player(s) lost OR any player that does not move you into a higher skill division.
             2. If you are adding a sixth (6th) or seventh (7th) player to your roster, you can add any player who does not move you into a higher skill division.
@@ -119,13 +120,13 @@
 1. Teams are able to use **one** stand-in for games where the team is one player short for their game, as long as they meet the following requirements:
     1. They must be registered for the tournament. 
     2. They are not in your group.
-    3. The stand-in’s weighted rank, as displayed on their user profile page, must be less than or equal to that of the player they are standing in for
+    3. The stand-in’s EchoLeague Rank, as displayed on their user profile page, must be less than or equal to that of the player they are standing in for
 2. To request a stand-in, a Team Member must use the ticket system or contact an admin with the following information before their game starts:
     1. Echo League Profile link of the player that you’re replacing for the series
     2. Echo League Profile link of the player that is standing-in for the series
     3. A screenshot of the stand-in’s current MMR from the Dota client
     4. The matches the stand-in is required for
-3. If  an admin approves a stand-in, they will write and update on the match page for which the stand-in will be used
+3. If an admin approves a stand-in, they will write and update on the match page for which the stand-in will be used
     1. In cases of extremely short notice, admins may also contact the opposing team to let them know directly
 4. An approved stand-in acts as a Team Member for the series they’re approved for, as listed in rule [III.5](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#iii-team-rules)
     1. Approved stand-ins are not guaranteed a chance to play on the team they’re standing-in for.
@@ -133,7 +134,7 @@
 6. Using an unapproved stand-in will result in a forfeit for the games they played in and potential further punishment, regardless of the game’s outcome.
     1. If unapproved stand-ins were used after being explicitly banned or disallowed by administration, the entire series is liable for forfeit.
 7. Teams and players cannot agree to make a stand-in approved.  Only stand-ins approved by admins are considered valid and playable.
-    1. Breaking this rule will result in punishment according to V.6
+    1. Breaking this rule will result in punishment according to [V.6](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#v-stand-ins)
 
 -----
 
@@ -148,11 +149,12 @@
         1. This will be used for any tiebreaker playoffs, and for organizing for playoffs 
     3. Single Elimination playoffs
 3. Each region will have 3 Divisions: An A-Tier, B-Tier, and C-Tier Division
-    1. If some regions are underpopulated, we may reduce the number of tiers to help better fill divisions
+    1. If some regions are underpopulated, we may reduce the number of tiers to help better fill divisions.  Group sizes may also be adjusted to better serve underpopulated divisions
 4. Each division will be limited to the number of teams allowed
     1. There must be enough teams to fill enough groups to allow for  4, 8, or 16 playoff teams
     2. Some groups may be padded with "BYE WEEK" teams if there are not enough registrations
     3. If we have too many registrations for one division, and cannot resolve it using a reasonable amount of "BYE WEEK" teams, we will remove teams by registration date
+        1. Teams will be removed recentness of team registration date
 5. The following match types and their series lengths are as follows:
     1. Group stage games will be a best of two.
     2. Plaoff stage games will be a best of three.
@@ -243,5 +245,5 @@
 1. Any disputes about rules, punishments, or conduct should be brought up to admins via the help page or via private message
 2. Disputes should be substantiated by screenshots, chatlogs, game logs, and/or any other relevant evidence
     1. Hearsay will be dismissed
-3. For any uncovered cases or edge-cases, admins will make a ruling on a case-by-case basis, inform all involved, and amend the rules to reflect the decision
+3. For any uncovered cases or edge-cases, admins will make a ruling on a case-by-case basis, inform all involved, and amend/update the rules to reflect the decision
 4. Any appeals to bans/suspensions/penalties can be directed to a staff member for further review
