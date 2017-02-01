@@ -1,5 +1,9 @@
 # Changelog
 
+### v1.0.1 - 2/1/2017
+
+Clarified registration MMR requirement.
+
 ### v1.0.0 - 1/31/2017
 
 Fix Dates.  Fix formatting.  Clarify minimum roster rules.  Fix some spellings.  Getting ready for SEASON ONE!
